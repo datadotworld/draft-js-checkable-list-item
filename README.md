@@ -15,6 +15,10 @@ npm i draft-js-checkable-list-item
 
 [Live demo](https://sugarshin.github.io/draft-js-checkable-list-item/)
 
+## data.world publishing
+
+Push to `master` to publish to Artifactory.
+
 ## Usage
 
 Example
